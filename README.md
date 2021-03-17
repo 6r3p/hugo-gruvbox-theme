@@ -27,4 +27,8 @@ $ cp themes/hugo-gruvbox-theme/layouts/partials/hero.html layouts/partials/hero.
 ```
 From there you can edit as you wish.
 
+Theme supports [Font Awesome](https://github.com/FortAwesome/Font-Awesome) fonts.
+
+## Thanks To
+
 Adapted from [Base16-eighties theme](https://github.com/deadl0ckio/hugo-base16-theme).
