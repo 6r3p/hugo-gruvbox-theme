@@ -29,6 +29,8 @@ From there you can edit as you wish.
 
 Theme supports [Font Awesome](https://github.com/FortAwesome/Font-Awesome) fonts.
 
+![Font Awesome screenshot](https://raw.githubusercontent.com/deadl0ckio/hugo-gruvbox-theme/main/images/font-awesome.png)
+
 ## Thanks To
 
 Adapted from [Base16-eighties theme](https://github.com/deadl0ckio/hugo-base16-theme).
