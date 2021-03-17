@@ -1,5 +1,5 @@
 # hugo-gruvbox-theme
-A Gruvbox Hugo theme.
+A Gruvbox Hugo theme with support for Font Awesome icons.
 
 Adapted from [Base16-eighties theme](https://github.com/deadl0ckio/hugo-base16-theme).
 
