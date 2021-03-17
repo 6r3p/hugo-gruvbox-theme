@@ -14,7 +14,7 @@ $ git clone https://github.com/deadl0ckio/hugo-gruvbox-theme themes/hugo-gruvbox
 Or by using Git submodules install via:
 
 ```
-git submodule add https://github.com/deadl0ckio/hugo-gruvbox-theme.git themes/hugo-gruvbox-theme --depth=1
+$ git submodule add https://github.com/deadl0ckio/hugo-gruvbox-theme.git themes/hugo-gruvbox-theme --depth=1
 ```
 
 ## Customisation
