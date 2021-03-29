@@ -33,4 +33,4 @@ Theme supports [Font Awesome](https://github.com/FortAwesome/Font-Awesome) fonts
 
 ## Thanks To
 
-Adapted from [Base16-eighties theme](https://github.com/deadl0ckio/hugo-base16-theme).
+Adapted from [Base16-eighties theme](https://github.com/htdvisser/hugo-base16-theme).
